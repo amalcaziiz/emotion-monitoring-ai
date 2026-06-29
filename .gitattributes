@@ -1,0 +1,4 @@
+WESAD/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+ISED/**/*.csv filter=lfs diff=lfs merge=lfs -text
+ISED/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+ISED/**/*.txt filter=lfs diff=lfs merge=lfs -text

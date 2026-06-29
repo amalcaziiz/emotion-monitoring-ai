@@ -1,0 +1,2500 @@
+[
+    {
+        "Timestamp": "2026-06-17 20:00:15",
+        "Text Input": "i am feeling joyful\n",
+        "Final Score": 0.48905476144528975,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 21:53:25",
+        "Text Input": "i am happy\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:54:00",
+        "Text Input": "i am angry\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:54:15",
+        "Text Input": "i am stress\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:54:35",
+        "Text Input": "i am stress\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:54:47",
+        "Text Input": "i am stress\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:54:58",
+        "Text Input": "i am ok\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:56:12",
+        "Text Input": "i am stress\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:56:38",
+        "Text Input": "i am happy\n\n\n\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 21:57:09",
+        "Text Input": "i am happy\n\n\n\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "time": "2026-06-17 22:01:26",
+        "text": "i am angry\n",
+        "score": 1.0,
+        "label": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-17 22:19:29",
+        "Text": "I am angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:19:48",
+        "Text": "I am angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:20:10",
+        "Text": "I am okay\n",
+        "Score": 0.9522604655336437,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:20:37",
+        "Text": "I am happy\n\n",
+        "Score": 0.9999987333494375,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:20:54",
+        "Text": "I am happy\n\n",
+        "Score": 0.9999999999667482,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:23:40",
+        "Text": "i am happy\n",
+        "Score": 0.8869289411608862,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:23:45",
+        "Text": "i am happy\n",
+        "Score": 0.8914290620899494,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:24:22",
+        "Text": "i am angry\n\n",
+        "Score": 0.9123816269322189,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:26:31",
+        "Text": "I am happy\n",
+        "Score": 0.5729020041275589,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:26:34",
+        "Text": "I am happy\n",
+        "Score": 0.5729020041275589,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:27:07",
+        "Text": "I am okay\n\n",
+        "Score": 0.8454335589319124,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:27:22",
+        "Text": "I am good\n\n\n",
+        "Score": 0.6099579026050506,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:28:01",
+        "Text": "I am angry\n\n\n\n\n",
+        "Score": 0.8847551897866175,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:28:38",
+        "Text": "I am good\n\n\n\n\n\n",
+        "Score": 0.625418918330301,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:28:51",
+        "Text": "I am happy\n\n\n\n\n\n\n",
+        "Score": 0.5729019677383631,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:29:02",
+        "Text": "I am angry\n\n\n\n\n\n\n\n",
+        "Score": 0.8890884867306994,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:29:21",
+        "Text": "I am joyful now\n\n\n\n\n\n\n\n\n",
+        "Score": 0.5692928564878692,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:32:29",
+        "Text": "I am feeling happy\n",
+        "Score": 0.46382971490278857,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:33:01",
+        "Text": "I am feeling happy\n",
+        "Score": 0.4596630482634957,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:33:16",
+        "Text": "I am feeling angry\n\n",
+        "Score": 0.8855196149833621,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:33:44",
+        "Text": "I am feeling angry\n\n\n",
+        "Score": 0.8809132206056947,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:34:02",
+        "Text": "I am feeling happy\n\n\n\n",
+        "Score": 0.4550566538858283,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:34:13",
+        "Text": "I am feeling joyful\n\n\n\n",
+        "Score": 0.4534429480242148,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:37:47",
+        "Text": "I am happy\n",
+        "Score": 0.5381278254415661,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:39:11",
+        "Text": "I am angry\n\n",
+        "Score": 0.9432783498777524,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:39:44",
+        "Text": "I am okay\n\n\n",
+        "Score": 0.9022568895563958,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:39:53",
+        "Text": "I am good\n\n\n",
+        "Score": 0.599502474279002,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:47:49",
+        "Text": "I am feeling calm",
+        "Score": 0.7786283868603616,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:48:23",
+        "Text": "I am angry\n",
+        "Score": 0.891474299073018,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:48:56",
+        "Text": "I am good\n\n",
+        "Score": 0.8059796571217349,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:49:51",
+        "Text": "I am joyful\n\n",
+        "Score": 0.8701237277987999,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:50:03",
+        "Text": "I am happy\n\n\n",
+        "Score": 0.8659990292268069,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:50:15",
+        "Text": "I am happy\n\n\n",
+        "Score": 0.8781474323624837,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 22:59:59",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.8185299371005257,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:01:55",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.778988385958321,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:03:39",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.7816225234209548,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:11:56",
+        "Text": "I feel calm and relaxed. I feel happy\n",
+        "Score": 0.815013927981357,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:16:48",
+        "Text": "I feel calm and relaxed and happy\n",
+        "Score": 0.26531750884033,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:18:07",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.5286102050350052,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:19:01",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.5102444236326138,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:19:16",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.5102444236326138,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:22:08",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.575575350931836,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:23:19",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.\n",
+        "Score": 0.36618284143009494,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:23:42",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.\n",
+        "Score": 0.36618284143009494,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:25:45",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.596478209689101,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:25:55",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.5964782096855739,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:25:59",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.5964782096855945,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:29:53",
+        "Text": "I am happy\n",
+        "Score": 0.004052627894284015,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:30:46",
+        "Text": "I am good\n\n",
+        "Score": 0.14668710953186345,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:31:15",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n\n\n",
+        "Score": 0.40691729271225924,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:31:48",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.4074759709202334,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:37:35",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation\n",
+        "Score": 0.4074759709202334,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:40:22",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.4061797930912144,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:41:49",
+        "Text": "I feel completely overwhelmed and deeply panicked right now!",
+        "Score": 0.5314091509590138,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:44:17",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.40879393579394957,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:45:32",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.40879393579394957,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:48:08",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.8770603159132654,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:49:17",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.9629449263434595,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:49:32",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.9629449263443957,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:50:25",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.\n",
+        "Score": 0.2523773288093629,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:53:09",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.25005462684934165,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:54:09",
+        "Text": "I feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.5871798100066745,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:54:42",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.5555518605693766,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:57:07",
+        "Text": "I feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.5879298100476242,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:57:57",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.25131004119865996,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-17 23:58:30",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation",
+        "Score": 0.5563018605693766,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:02:48",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.5894298100655662,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:03:28",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.5563018605693766,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:07:47",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.5555518605693766,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:08:31",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.25161925245264305,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:09:06",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.26698356987689686,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:09:27",
+        "Text": "I am calm, relaxed, everything is fine. I feel peaceful and happy.",
+        "Score": 0.2729835698952724,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:10:52",
+        "Text": "I feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.5909298100931273,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:13:05",
+        "Text": "i feel happy\n",
+        "Score": 0.20110961534233068,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:13:50",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.\n",
+        "Score": 0.5563018605693766,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:17:30",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.5555518605693766,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:18:47",
+        "Text": "I feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.5901798100847148,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:20:49",
+        "Text": "I feel stress",
+        "Score": 0.6280498771179515,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:25:28",
+        "Text": "I feel stress",
+        "Score": 0.7832518962815028,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:26:39",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.6923146660437625,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:28:46",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.6922884913243956,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:31:12",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.5713210062149641,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:34:14",
+        "Text": "I feel stress",
+        "Score": 0.6502582363891669,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18T00:40:14.132362",
+        "Text": "I feel stressed and overwhelmed",
+        "Score": 0.4229811290412693,
+        "Prediction": "\u26aa UNCERTAIN (Conflict)"
+    },
+    {
+        "Timestamp": "2026-06-18T00:45:03.818383",
+        "Text": "I feel stressed and overwhelmed",
+        "Score": 0.4229811290412693,
+        "Prediction": "\u26aa UNCERTAIN (Conflict)"
+    },
+    {
+        "Timestamp": "2026-06-18T00:45:22.969258",
+        "Text": "I feel stressed and overwhelmed",
+        "Score": 0.522755732098297,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T00:45:34.902197",
+        "Text": "I feel happy",
+        "Score": 0.12952092365661524,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T00:45:47.706478",
+        "Text": "I feel happy",
+        "Score": 0.14701431307812052,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T00:46:47.981332",
+        "Text": "I feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.39731446237460255,
+        "Prediction": "\u26aa UNCERTAIN (Conflict)"
+    },
+    {
+        "Timestamp": "2026-06-18T00:48:02.555871",
+        "Text": "I feel stressed ",
+        "Score": 0.833207586202114,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T00:49:09.883325",
+        "Text": "i feel happy ",
+        "Score": 0.975314267174878,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 00:50:49",
+        "Text": "I feel calm \n",
+        "Score": 0.5921343467694193,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:51:03",
+        "Text": "I feel calm \n",
+        "Score": 0.5927205332243067,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:51:14",
+        "Text": "I feel happy\n\n",
+        "Score": 0.18975118617183623,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:52:30",
+        "Text": "I feel a bit worried and under pressure but I am managing it.\n\n",
+        "Score": 0.6063696782548689,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:53:06",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.5713210062149641,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 00:58:48",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.6521375262818476,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:01:14",
+        "Text": "I feel happy\n",
+        "Score": 0.06666666666666667,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:02:05",
+        "Text": " feel a bit worried and under pressure but I am managing it.\n",
+        "Score": 0.36666666666666664,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:02:55",
+        "Text": "I am extremely stressed, panicking, overwhelmed, and I cannot handle this situation.",
+        "Score": 0.36666666666666664,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:05:26",
+        "Text": "I feel stress",
+        "Score": 0.36666666666666664,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:10:59",
+        "Text": "i feel stress",
+        "Score": 0.36666666666666664,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:17:43",
+        "Text": "I feel stress",
+        "Score": 0.36666666666666664,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:18:55",
+        "Text": " feel a bit worried and under pressure but I am managing it.",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:23:09",
+        "Text": "I feel stress",
+        "Score": 0.5391610867094933,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:24:11",
+        "Text": "I feel worried\n",
+        "Score": 0.6111020541332711,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:24:41",
+        "Text": "I feel happy\n\n",
+        "Score": 0.3095991670784276,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:32:46",
+        "Text": "I feel happy\n",
+        "Score": 0.1,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:33:26",
+        "Text": "I feel worried\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:34:03",
+        "Text": "I feel stress\n\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:34:13",
+        "Text": "I feel stress\n\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:35:25",
+        "Text": "I feel worried\n\n\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:37:11",
+        "Text": "I feel happy\n\n\n\n",
+        "Score": 0.1,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:37:19",
+        "Text": "I feel happy\n\n\n\n",
+        "Score": 0.1,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:37:34",
+        "Text": "I feel happy\n\n\n\n",
+        "Score": 0.1,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:47:00",
+        "Text": "I feel happy\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:47:17",
+        "Text": "I feel happy\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:47:47",
+        "Text": "I feel worried\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:48:25",
+        "Text": "I feel stressed\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:49:08",
+        "Text": "I feel worried\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:49:19",
+        "Text": "I feel worried\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:49:55",
+        "Text": "I feel worried\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:52:45",
+        "Text": "I feel stress",
+        "Score": 0.4666797930912144,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:53:50",
+        "Text": "I feel worried\n",
+        "Score": 0.4886823376490863,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:54:32",
+        "Text": "I feel happy\n\n",
+        "Score": 0.023626461022477167,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:56:49",
+        "Text": "I feel worried\n\n\n",
+        "Score": 0.49959247496146436,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:57:11",
+        "Text": "\n\n\n",
+        "Score": 0.5509258082947978,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:57:31",
+        "Text": "\n\n\n",
+        "Score": 0.5298537907976141,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:58:29",
+        "Text": "\ni am worried\n\n\n\n",
+        "Score": 0.5319432254079434,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 01:59:28",
+        "Text": "\ni am stress\n\n\n\n",
+        "Score": 0.49601312642454776,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:04:25",
+        "Text": "I feel stress",
+        "Score": 0.4666797930912144,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:05:24",
+        "Text": "I feel worried\n",
+        "Score": 0.4916764349313462,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:06:53",
+        "Text": "I feel happy\n\n",
+        "Score": 0.023381858224985,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:07:15",
+        "Text": "I feel worried\n\n",
+        "Score": 0.47895000000000004,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:09:36",
+        "Text": "I feel worried",
+        "Score": 0.47895000000000004,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:10:17",
+        "Text": "I feel worried",
+        "Score": 0.4916764349313462,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:14:06",
+        "Text": "I feel worry\n",
+        "Score": 0.5118043895027816,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:14:23",
+        "Text": "I feel stress\n\n",
+        "Score": 0.44763772283611486,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:14:42",
+        "Text": "I feel stress\n\n",
+        "Score": 0.46929393579394957,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:16:40",
+        "Text": "I feel stress\n",
+        "Score": 0.4666797930912144,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 02:17:13",
+        "Text": "I feel  worried\n\n",
+        "Score": 0.49959247496146436,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:06:54",
+        "Text": "I feel calm, relaxed and happy today",
+        "Score": 0.8499990095984609,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:07:20",
+        "Text": "I feel angry\n",
+        "Score": 0.8685926811051454,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:07:51",
+        "Text": "I feel worried\n",
+        "Score": 0.7970151575201947,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:13:56",
+        "Text": "I feel angry\n",
+        "Score": 0.8647337654173914,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:14:34",
+        "Text": "I feel joyful\n",
+        "Score": 0.8551504704931348,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 07:17:38",
+        "Text": "I feel calm and relaxed and joyful\n",
+        "Score": 0.8311144213562527,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:19:09",
+        "Text": "I feel worried\n\n",
+        "Score": 0.8033784093671681,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:19:27",
+        "Text": "I feel worried\n\n",
+        "Score": 0.8142562810215133,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:20:38",
+        "Text": "I feel calm and relaxed and joy\n",
+        "Score": 0.4583333333333333,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:21:54",
+        "Text": "I feel worried\n",
+        "Score": 0.625,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:23:12",
+        "Text": "I feel angry\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:24:35",
+        "Text": "I feel joy\n\n\n",
+        "Score": 0.20833333333333331,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:27:32",
+        "Text": "I feel worried\n\n\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:28:03",
+        "Text": "I feel fear\n\n\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:28:17",
+        "Text": "I feel anxious \n\n\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:28:32",
+        "Text": "I feel anxious \n\n\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:32:03",
+        "Text": "I feel calm and relaxed",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:32:16",
+        "Text": "I feel calm and relaxed",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:32:27",
+        "Text": "I feel calm and relaxed",
+        "Score": 0.625,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:32:40",
+        "Text": "I feel calm and relaxed",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:32:49",
+        "Text": "I feel calm and relaxed",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:33:07",
+        "Text": "I feel joyful\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:33:15",
+        "Text": "I feel joyful\n",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:33:37",
+        "Text": "I feel joyful\n",
+        "Score": 0.125,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:34:04",
+        "Text": "I feel angry\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:36:10",
+        "Text": "I feel worried\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:36:18",
+        "Text": "I feel worried\n\n",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:36:31",
+        "Text": "I feel worried\n\n",
+        "Score": 0.25,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:36:37",
+        "Text": "I feel worried\n\n",
+        "Score": 0.375,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:39:51",
+        "Text": "I feel angry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:40:07",
+        "Text": "I feel angry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:40:15",
+        "Text": "I feel angry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:40:27",
+        "Text": "I feel worry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:41:01",
+        "Text": "I feel worry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:42:47",
+        "Text": "I feel joy",
+        "Score": 0.3,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:43:14",
+        "Text": "I feel joy",
+        "Score": 0.3,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:44:11",
+        "Text": "I feel angry\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:46:09",
+        "Text": "I feel stress\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:46:20",
+        "Text": "I feel fear\n\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:46:31",
+        "Text": "I feel worried\n\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:46:43",
+        "Text": "I feel happy\n\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:47:34",
+        "Text": "I feel angry\n",
+        "Score": 0.3,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:47:48",
+        "Text": "I feel angry\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:48:25",
+        "Text": "I feel worried\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:56:51",
+        "Text": "I feel joyful\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:56:57",
+        "Text": "I feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:57:17",
+        "Text": "I feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:57:30",
+        "Text": "I feel joyful\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:58:02",
+        "Text": "I feel worry\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 07:58:08",
+        "Text": "I feel worry\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:00:01",
+        "Text": "I feel worry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:00:08",
+        "Text": "I feel worry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:00:24",
+        "Text": "I feel worry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:00:44",
+        "Text": "I feel angry\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:00:55",
+        "Text": "I feel angry\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:01:50",
+        "Text": "I feel angry\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:01:58",
+        "Text": "I feel angry\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:02:07",
+        "Text": "I feel angry\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:02:30",
+        "Text": "I feel worry\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:02:53",
+        "Text": "I feel joy\n\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:03:13",
+        "Text": "I feel joy\n\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:03:34",
+        "Text": "I feel stress\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:03:47",
+        "Text": "I feel angry\n\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:03:52",
+        "Text": "I feel angry\n\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:04:01",
+        "Text": "I feel angry\n\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:04:13",
+        "Text": "I feel worry\n\n\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:04:29",
+        "Text": "I feel angry\n\n\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:06:56",
+        "Text": "I feel worry\n\n\n\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:10:42",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:22:12",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18 08:25:40",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:26:31",
+        "Text": "I feel worry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:28:34",
+        "Text": "I feel worry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:29:56",
+        "Text": "I feel joyful\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:31:16",
+        "Text": "I feel angry\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:31:37",
+        "Text": "I feel worry \n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:32:00",
+        "Text": "I feel angry\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:34:07",
+        "Text": "I feel worry\n\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:34:37",
+        "Text": "I feel worry\n\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:35:00",
+        "Text": "I feel worry\n\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:36:50",
+        "Text": "I feel  worry",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:37:17",
+        "Text": "I feel angry",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:37:23",
+        "Text": "I feel angry",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:41:53",
+        "Text": "I feel joyful\n",
+        "Score": 0.3666666666666667,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:42:10",
+        "Text": "I feel angry\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:42:33",
+        "Text": "I feel worry\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:43:25",
+        "Text": "I feel angry\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:34",
+        "Text": "I feel super angry\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:36",
+        "Text": "I feel super angry\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:44",
+        "Text": "I feel super angry and fear\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:45",
+        "Text": "I feel super angry and fear\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:47",
+        "Text": "I feel super angry and fear\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:51",
+        "Text": "I feel super angry and fear\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:44:56",
+        "Text": "I feel super angry and fear\n\n\n",
+        "Score": 1.0833333333333335,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:46:34",
+        "Text": "I feel angry and fearful",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:46:48",
+        "Text": "I feel worry\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:47:09",
+        "Text": "I feel angry\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:49:01",
+        "Text": "I feel angry\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:49:05",
+        "Text": "I feel angry\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:49:20",
+        "Text": "I feel worry\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:50:24",
+        "Text": "I feel angry",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:50:28",
+        "Text": "I feel angry",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:50:41",
+        "Text": "I feel worry",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:52:17",
+        "Text": "I feel angry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:52:31",
+        "Text": "I feel worry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:54:51",
+        "Text": "I feel worry\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:55:14",
+        "Text": "I feel angry\n\n\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:56:51",
+        "Text": "I feel worry\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:57:22",
+        "Text": "I feel angry and fear\n",
+        "Score": 0.45,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:59:14",
+        "Text": "I feel angry\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 08:59:28",
+        "Text": "I feel worry\n",
+        "Score": 1.2,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:03:02",
+        "Text": "I feel worry\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:03:22",
+        "Text": "I feel angry\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:03:51",
+        "Text": "I feel worry but need to calm\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:04:32",
+        "Text": "I feel a bit concerned \n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:04:46",
+        "Text": "I feel a bit concerned and worry\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:05:18",
+        "Text": "I feel slightly stressed \n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:05:19",
+        "Text": "I feel slightly stressed \n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:05:32",
+        "Text": "I feel slightly stressed but i am okay\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:05:43",
+        "Text": "I feel worried\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:06:05",
+        "Text": "I feel confused\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:06:06",
+        "Text": "I feel confused\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:06:06",
+        "Text": "I feel confused\n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:06:13",
+        "Text": "I feel confused and happy\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:06:14",
+        "Text": "I feel confused and happy\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:07:11",
+        "Text": " I am slightly frustrated \n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:08:14",
+        "Text": " I am slightly frustrated \n\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:08:23",
+        "Text": " I am slightly frustrated \n\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:08:29",
+        "Text": " I am slightly frustrated \n\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:08:36",
+        "Text": " I am slightly frustrated \n\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:12:27",
+        "Text": "I feel frustrated ",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:12:40",
+        "Text": "I feel worry",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:12:53",
+        "Text": "I feel worry but calm",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:12:54",
+        "Text": "I feel worry but calm",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:12:57",
+        "Text": "I feel worry but calm",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:13:02",
+        "Text": "I feel worry but calm",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:13:04",
+        "Text": "I feel worry but calm",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:13:14",
+        "Text": "I feel worry but calm",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:14:28",
+        "Text": "I feel worry but calm",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:15:06",
+        "Text": "I feel angry\n",
+        "Score": 1.6,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:17:52",
+        "Text": "I feel angry\n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:18:25",
+        "Text": "I feel okay but frustrated and worry\n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:18:42",
+        "Text": "I feel okay but frustrated and worry\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:24:37",
+        "Text": "I feel worried ",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:25:04",
+        "Text": "I feel angry\n\n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:25:44",
+        "Text": "I feel worried\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:26:00",
+        "Text": "I feel frustrated and worry\n\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:28:40",
+        "Text": "I feel frustrated but calm",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:29:02",
+        "Text": "I feel angry\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:29:48",
+        "Text": "I feel angry and being fearful\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:31:41",
+        "Text": "I feel angry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:32:07",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:32:14",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:32:20",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:32:25",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:34:12",
+        "Text": "I feel angry\n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:34:39",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:36:25",
+        "Text": "I feel angry\n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:36:39",
+        "Text": "I feel worried but calm \n",
+        "Score": 0.9916666666666667,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:36:50",
+        "Text": "I feel worried but calm \n",
+        "Score": 0.9,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:38:31",
+        "Text": "I feel worried but calm",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:38:38",
+        "Text": "I feel worried but calm",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:38:57",
+        "Text": "I feel worried but calm",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:39:09",
+        "Text": "i fell joyful",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:39:28",
+        "Text": "i feel angry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:40:50",
+        "Text": "I feel frustrated ",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:44:12",
+        "Text": "I feel frustrated but calm",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:44:31",
+        "Text": "I feel angry",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:44:33",
+        "Text": "I feel angry",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:44:35",
+        "Text": "I feel angry",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:46:24",
+        "Text": "I feel angry",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:50:22",
+        "Text": "I feel angry\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:50:26",
+        "Text": "I feel angry\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:50:58",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:51:05",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:51:12",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:51:16",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:12",
+        "Text": "I feel frustrated but calm",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:32",
+        "Text": "I feel angry\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:48",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:50",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:51",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:54:58",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:55:10",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.25,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 09:55:20",
+        "Text": "I feel worried but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:01:05",
+        "Text": "I feel worried but calm",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:01:10",
+        "Text": "I feel worried but calm",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:01:28",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:04:24",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:02",
+        "Text": "I feel calm and relaxed",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:32",
+        "Text": "i feel happy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:42",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:44",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:45",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:45",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:46",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:08:46",
+        "Text": "i feel joyful\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:23:55",
+        "Text": "I feel joyful",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:24:18",
+        "Text": "I feel angry\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:24:51",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:24:55",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:25:10",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:25:59",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:26:02",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:26:20",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:26:29",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:26:44",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:26:54",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:27:17",
+        "Text": "I feel worried and a bit stressed about exams",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:31:44",
+        "Text": "i feel joyful",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:31:59",
+        "Text": "i feel joyful",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:32:09",
+        "Text": "i feel joy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:32:11",
+        "Text": "i feel joy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:32:29",
+        "Text": "i feel joy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:32:43",
+        "Text": "i feel joy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:32:56",
+        "Text": "i feel happy\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:33:32",
+        "Text": "i feel happy\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:34:03",
+        "Text": "i feel joy\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:34:32",
+        "Text": "i feel angry\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:35:01",
+        "Text": "i feel frustrated but calm\n\n\n\n",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:36:32",
+        "Text": "I feel calm",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:38:05",
+        "Text": "I feel happy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 10:38:21",
+        "Text": "I feel joy\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:07:37",
+        "Text": "I feel calm, relaxed, and peaceful today\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:07:51",
+        "Text": "I feel happy\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:09:33",
+        "Text": "I feel calm and relaxed",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:10:40",
+        "Text": "I feel calm and relaxed",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:10:50",
+        "Text": "I feel calm and relaxed",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:11:05",
+        "Text": "I feel calm and relaxed",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:12:47",
+        "Text": "I feel angry\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:13:32",
+        "Text": "I feel joy\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:14:00",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:14:30",
+        "Text": "I feel angry \n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:15:56",
+        "Text": "I feel angry",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:16:28",
+        "Text": "I feel frustrated but calm",
+        "Score": 2.0,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:21:01",
+        "Text": "I feel joy",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:21:11",
+        "Text": "I feel joy",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:21:22",
+        "Text": "I feel joy",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:24:17",
+        "Text": "I feel joyful\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:24:45",
+        "Text": "I feel joyful\n\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:25:00",
+        "Text": "I feel angry\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:25:16",
+        "Text": "I feel fear\n\n\n\n",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:33:05",
+        "Text": "I feel angry",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:33:20",
+        "Text": "I feel furious",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:33:35",
+        "Text": "I feel joyful",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:33:45",
+        "Text": "I feel joyful",
+        "Score": 0.16666666666666666,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:34:33",
+        "Text": "I feel frustrated but calm",
+        "Score": 0.6666666666666666,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:35:43",
+        "Text": "I feel frustrated",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:35:54",
+        "Text": "I feel angry\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:37:01",
+        "Text": "I feel angry\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:37:37",
+        "Text": "I feel joyful\n",
+        "Score": 0.16666666666666666,
+        "Prediction": "\ud83d\udfe2 LOW STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:38:09",
+        "Text": "I feel frustrated but calm\n",
+        "Score": 0.6666666666666666,
+        "Prediction": "\ud83d\udd34 HIGH STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:39:09",
+        "Text": "I feel angry\n",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:45:37",
+        "Text": "I feel angry",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:45:53",
+        "Text": "I feel joyful",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18 11:46:01",
+        "Text": "I feel joyful",
+        "Score": 1.0,
+        "Prediction": "\ud83d\udfe1 MEDIUM STRESS STATE"
+    },
+    {
+        "Timestamp": "2026-06-18T12:08:22.101100",
+        "Text": "I feel stressed",
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:08:34.496414",
+        "Text": "I feel angry\n",
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:08:58.715527",
+        "Text": "I feel joyful\n\n",
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:09:25.744762",
+        "Text": "I feel joyful\n\n",
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:11:50.275641",
+        "Text": "I feel stressed",
+        "Score": 0.5,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:12:14.872926",
+        "Text": "I feel happy\n",
+        "Score": 0.16666666666666666,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:12:31.348435",
+        "Text": "I feel happy\n",
+        "Score": 0.0,
+        "Prediction": "\ud83d\udfe2 LOW STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:12:51.516043",
+        "Text": "I feel angry\n\n",
+        "Score": 0.6666666666666666,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    },
+    {
+        "Timestamp": "2026-06-18T12:13:09.133557",
+        "Text": "I feel angry\n\n",
+        "Score": 0.6666666666666666,
+        "Prediction": "\ud83d\udd34 HIGH STRESS"
+    }
+]
