@@ -238,7 +238,7 @@ hr {
 st.markdown("""
 <div class="hero">
     <h1>AI-Driven Emotional Changing Monitoring Framework</h1>
-    <p>Multimodal Stress Detection using Physiological + Behavioral Signals</p>
+    <p>ISED Multimodal Stress Detection using Physiological + Behavioral Signals</p>
 </div>
 """, unsafe_allow_html=True)
 
