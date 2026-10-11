@@ -81,6 +81,11 @@ The application allows users to:
 - Inspect individual model predictions
 - Compare model performance
 
+-
+
+
+
+
 ---
 
 #  Tech Stack
